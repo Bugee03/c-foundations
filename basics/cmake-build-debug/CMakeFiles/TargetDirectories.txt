@@ -1,0 +1,3 @@
+/Users/emin/Documents/C/docNvim/cmake-build-debug/CMakeFiles/docNvim.dir
+/Users/emin/Documents/C/docNvim/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emin/Documents/C/docNvim/cmake-build-debug/CMakeFiles/rebuild_cache.dir

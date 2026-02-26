@@ -1,0 +1,10 @@
+# ninja log v6
+1	60	1723980983770071806	CMakeFiles/docNvim.dir/lesson1/main.c.o	1155f9dec0909932
+1	61	1723980983770762900	CMakeFiles/docNvim.dir/lesson3Math/math.c.o	a089da7fc541d343
+1	62	1723980983770445914	CMakeFiles/docNvim.dir/lesson2/main.c.o	368298c439ea4626
+61	88	1723980983830089074	CMakeFiles/docNvim.dir/lesson6_function/main.c.o	3eed2d0340424464
+60	89	1723980983829509475	CMakeFiles/docNvim.dir/lesson5_Switch/temp.c.o	555a7a5e3c0a15c3
+1	62	1723980983770919851	CMakeFiles/docNvim.dir/lesson4_circleference/circle.c.o	991e51731d3f791f
+2	62	1723980983771062720	CMakeFiles/docNvim.dir/lesson4_circleference/hipotenuse.c.o	2072c58b8da7c126
+2	62	1723980983771670651	CMakeFiles/docNvim.dir/lesson5_Switch/main.c.o	4d7241394f68bf09
+1	35	1723981520815433518	CMakeFiles/docNvim.dir/lesson7_stringFunc/main.c.o	22ca7831cdc6107c
